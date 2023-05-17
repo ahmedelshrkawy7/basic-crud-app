@@ -1,0 +1,46 @@
+*{
+  box-sizing: border-box;
+  padding: 0;
+  margin:0;
+  scroll-behavior: smooth;
+}
+/* a{
+  color:unset;
+  text-decoration: none;
+}*/
+
+body{
+ background-color: cornflowerblue;
+  font-family: 'Exo', sans-serif; 
+  height: 5000px;
+} 
+.glint__background{
+  height: 100vh;
+  background-image: url(https://assets.tmecosys.com/image/upload/t_web767x639/img/recipe/ras/Assets/c9a73b25-8d33-416e-a97b-ff78b14d0f14/Derivates/8873c8b3-b1cf-4a38-b5a1-1b0c2bb32ead.jpg);
+  background-size: cover;
+  background-position: center;
+  
+  background-repeat: no-repeat;
+  
+}
+
+
+/* .gradient__bg{
+   background:-moz-radial-gradient(circle at 17% 29%, rgba(4, 12, 24, 1) 0%, rgba(0, 40, 83, 1) 0%, rgba(4, 12, 24, 1) 100%);
+
+   background:-webkit-radial-gradient(circle at 17% 29%, rgba(4, 12, 24, 1) 0%, rgba(0, 40, 83, 1) 0%, rgba(4, 12, 24, 1) 100%);
+
+   background:-o-radial-gradient(circle at 17% 29%, rgba(4, 12, 24, 1) 0%, rgba(0, 40, 83, 1) 0%, rgba(4, 12, 24, 1) 100%);
+
+   background:-ms-radial-gradient(circle at 17% 29%, rgba(4, 12, 24, 1) 0%, rgba(0, 40, 83, 1) 0%, rgba(4, 12, 24, 1) 100%);
+
+   background:radial-gradient(circle at 17% 29%, rgba(4, 12, 24, 1) 0%, rgba(0, 40, 83, 1) 0%, rgba(4, 12, 24, 1) 100%);
+
+}
+.gradient__text{
+  background: linear-gradient(103.22deg, #AE67FA -13.86%, #F49867 99.55%), #FFFFFF;
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+}
+ */
